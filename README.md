@@ -24,7 +24,7 @@ With experience in frontend development and cross-client HTML email engineering,
   <a href="https://github.com/manikantasriram" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.instagram.com/manikanta.sriramm/" target="_blank">
+  <a href="https://www.instagram.com/manikantasriram__/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://medium.com/@manikantasriram" target="_blank">

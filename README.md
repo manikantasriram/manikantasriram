@@ -74,13 +74,4 @@ Also: TanStack Query · REST APIs · Pytest · cross-client HTML email (Outlook,
 
 ---
 
-## 📊 GitHub stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=manikantasriram&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="Manikanta's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikantasriram&layout=compact&hide_border=true&theme=github_dark" alt="Most-used languages" />
-</p>
-
----
-
 **Looking for a developer who sweats the details?** Let's talk: [manikantasriram98@gmail.com](mailto:manikantasriram98@gmail.com)

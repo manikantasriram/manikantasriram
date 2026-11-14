@@ -10,7 +10,7 @@ With experience in frontend development and cross-client HTML email engineering,
 - 🌱 **Learning:** Advanced JavaScript, TypeScript, frontend architecture, and full-stack development
 - 🧠 **Exploring:** State management, API integration, testing, and web performance optimization
 - 🤝 **Open to:** Frontend opportunities, open-source contributions, and meaningful collaborations
-- 💼 **Portfolio:** [manikantasriram.netlify.app](https://manikantasriram.netlify.app)
+- 💼 **Portfolio:** [manikantasriram.vercel.app](https://manikantasriram.vercel.app)
 - 📫 **Email:** [manikantasriram98@gmail.com](mailto:manikantasriram98@gmail.com)
 
 ---
@@ -83,7 +83,7 @@ Explore my repositories to see my approach to frontend engineering, application 
 
 | Project | What to look for |
 |---|---|
-| [Portfolio Website](https://manikantasriram.netlify.app) | My work, experience, and frontend development journey |
+| [Portfolio Website](https://manikantasriram.vercel.app) | My work, experience, and frontend development journey |
 | [GitHub Repositories](https://github.com/manikantasriram?tab=repositories) | Projects, experiments, and code |
 | [Open-Source Contributions](https://github.com/manikantasriram?tab=activity) | My public development activity |
 

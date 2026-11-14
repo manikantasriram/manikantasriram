@@ -1,128 +1,86 @@
-# Hey, I'm Manikanta Sriram 👋
+# Hi, I'm Manikanta Sriram 👋
 
-### Frontend Developer | React.js • TypeScript • Modern Web Experiences
+### Full Stack Developer · React · TypeScript · Next.js · FastAPI · PostgreSQL
 
-I’m a frontend developer passionate about building **scalable, responsive, accessible, and high-performance web applications**. I enjoy turning complex problems into clean user interfaces, writing maintainable code, and continuously improving my engineering skills.
+I build fast, accessible web interfaces, and now the APIs behind them.
 
-With experience in frontend development and cross-client HTML email engineering, I bring a strong focus on UI quality, compatibility, performance, and real-world problem-solving.
+For 3+ years at **Cendyn** I built UI and email templates for global hotel brands, where a layout that breaks in Outlook isn't an option. That's where I learned to care about cross-client rendering, accessibility and performance.
 
-- 🔭 **Building:** Modern web applications with React, TypeScript, and Tailwind CSS
-- 🌱 **Learning:** Advanced JavaScript, TypeScript, frontend architecture, and full-stack development
-- 🧠 **Exploring:** State management, API integration, testing, and web performance optimization
-- 🤝 **Open to:** Frontend opportunities, open-source contributions, and meaningful collaborations
-- 💼 **Portfolio:** [manikantasriram.vercel.app](https://manikantasriram.vercel.app)
-- 📫 **Email:** [manikantasriram98@gmail.com](mailto:manikantasriram98@gmail.com)
+- ✅ Delivered **20+ UI and email template projects a month**, owned from requirement intake to release
+- ⚡ Built React and TypeScript components plus a reusable HTML and SASS library that cut new-template time by an **estimated 25%**
+- 🔗 Integrated **300+ CRM rate and room-type codes** with conditional logic, JSON payloads and third-party APIs
+- 🌱 Now building full stack: React and TypeScript on the front, FastAPI and PostgreSQL behind it
 
----
-
-## 🌐 Connect With Me
+📍 Hyderabad, India · 🤝 **Open to Frontend and Full Stack Developer roles** (Hyderabad or remote) · Immediate joiner
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/manekanttasriram/" target="_blank">
+  <a href="https://manikantasriram.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-manikantasriram.vercel.app-2F5BFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/manekanttasriram/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/manikantasriram" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="mailto:manikantasriram98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.instagram.com/manikantasriram__/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://medium.com/@manikantasriram" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  <a href="https://medium.com/@manikantasriram">
+    <img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured work
 
-### Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,vite" alt="HTML, CSS, JavaScript, TypeScript, React, Redux, Tailwind CSS and Vite" />
-</p>
-
-### State Management, APIs & Testing
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=redux,nodejs,jest" alt="Redux, Node.js and Jest" />
-</p>
-
-- **State management:** Redux, Context API
-- **Data fetching:** TanStack Query, REST APIs
-- **Testing:** Jest and component testing fundamentals
-- **Styling:** Responsive CSS, Tailwind CSS, reusable UI components
-
-### Tools & Workflow
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,azure,figma" alt="Git, GitHub, VS Code, npm, Azure and Figma" />
-</p>
-
-- Version control and collaboration with Git and GitHub
-- Cross-browser debugging and responsive UI development
-- Email template development and rendering compatibility
-- Agile workflows, quality assurance, and deployment processes
+| Project | What it is | Stack |
+|---|---|---|
+| [**portfolio-nextjs**](https://github.com/manikantasriram/portfolio-nextjs) · [live](https://manikantasriram.vercel.app) | My portfolio: a static Next.js site with a Git-style experience timeline, a command palette, dark/light themes and lazy-loaded scroll animation. Lighthouse 100 on desktop | Next.js · TypeScript · Tailwind CSS · GSAP · Vercel |
+| [**moviecards**](https://github.com/manikantasriram/moviecards) · [live](https://moviecards-blond.vercel.app) | A responsive movie card grid built from a reusable, props-driven card component | React · Material UI |
+| [**profileCard**](https://github.com/manikantasriram/profileCard) | A personal profile page split into header, card, container and footer components | React · Vite · Material UI |
+| [**manikanta_resume**](https://github.com/manikantasriram/manikanta_resume) | A responsive single-page resume | HTML · CSS |
 
 ---
 
-## 💻 What I Bring to the Table
+## 🛠️ Tech stack
 
-- ⚛️ **Component-driven development:** Building reusable React components with clear separation of concerns.
-- 🎯 **Type-safe applications:** Using TypeScript to improve code reliability and maintainability.
-- ⚡ **Performance-minded engineering:** Applying appropriate rendering strategies, efficient state management, and optimized data fetching.
-- 📱 **Responsive experiences:** Creating interfaces that work across desktop, tablet, and mobile devices.
-- ✉️ **Email engineering:** Developing responsive HTML email templates with attention to Outlook, Gmail, and other email clients.
-- 🧩 **Problem-solving:** Breaking complex requirements into manageable, maintainable solutions.
+**Frontend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass,redux" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Sass and Redux" />
+</p>
+
+**Backend and data**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker" alt="Python, FastAPI, PostgreSQL and Docker" />
+</p>
+
+**Testing, tools and design**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jest,git,github,vscode,azure,vercel,figma" alt="Jest, Git, GitHub, VS Code, Azure, Vercel and Figma" />
+</p>
+
+Also: TanStack Query · REST APIs · Pytest · cross-client HTML email (Outlook, Gmail) · accessibility (WCAG) · Jira · Azure DevOps
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 How I work
 
-Explore my repositories to see my approach to frontend engineering, application architecture, and practical problem-solving.
-
-| Project | What to look for |
-|---|---|
-| [Portfolio Website](https://manikantasriram.vercel.app) | My work, experience, and frontend development journey |
-| [GitHub Repositories](https://github.com/manikantasriram?tab=repositories) | Projects, experiments, and code |
-| [Open-Source Contributions](https://github.com/manikantasriram?tab=activity) | My public development activity |
-
-*Tip: Replace this section with three pinned repositories, each with a live demo, a concise problem statement, the technologies used, and the key engineering decisions.*
+- **Accessible by default:** semantic HTML, keyboard support and visible focus states from the start
+- **Reliable across clients:** checked across browsers and email clients, including Outlook's quirks
+- **Typed and tested:** TypeScript, Jest, React Testing Library and Pytest
+- **Owned end to end:** from requirement intake and code review to release and production support
 
 ---
 
-## 📊 GitHub at a Glance
+## 📊 GitHub stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=manikantasriram&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="Manikanta's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikantasriram&layout=compact&hide_border=true&theme=github_dark" alt="Most-used languages" />
 </p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikantasriram&layout=compact&hide_border=true&theme=github_dark" alt="Most-used programming languages" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=manikantasriram&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-*GitHub statistics are generated by external services and may occasionally be unavailable. Language statistics reflect repository contents, not necessarily overall proficiency.*
 
 ---
 
-## 🎯 My Engineering Philosophy
-
-> Great software isn't just about making things work. It's about making them understandable, maintainable, accessible, and reliable.
-
-I believe in learning the fundamentals, writing code with purpose, keeping solutions simple, and improving through consistent practice and real-world projects.
-
-I'm always interested in connecting with developers, exchanging ideas, and building products that solve meaningful problems.
-
----
-
-### Thanks for stopping by! 👨‍💻
-
-If something here interests you, explore my repositories, connect with me on LinkedIn, or reach out via email.
-
-**Let's build something meaningful together.** 🚀
-
-⭐ *If you find one of my projects useful, consider giving it a star!*
+**Looking for a developer who sweats the details?** Let's talk: [manikantasriram98@gmail.com](mailto:manikantasriram98@gmail.com)
